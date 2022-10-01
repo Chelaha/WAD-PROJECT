@@ -1,0 +1,27 @@
+
+id-                1
+Name -             Balloon Race
+Description -      Jump into the basket on one of our eight colorful balloons at the Great Balloon Race.
+Guidelines -       Must be at least 48” unless accompanied by a responsible companion. Minimum age: 2. Additional safety information posted at the attraction.
+
+id-                2
+Name -             Barnstormer Planes
+Description -      Enjoy the Adventure City skies while boarding your barnstormer plane.
+Guidelines -       Must be at least 42” unless accompanied by a responsible companion. Additional safety information posted at the attraction.
+
+
+id-                3
+Name -             Freeway Coaster
+Description -      The ultimate ride for pint-size thrill seekers that provides big-time fun for the whole family. 
+Guidelines -       Must be at least 36” if accompanied by a responsible companion. Minimum height to ride alone: 42”. Additional safety information posted at the attraction.
+
+id-                4
+Name -             Drop Zone
+Description -      The name says it all…A 45 foot tower full of thrill seeking fun! 
+Guidelines -       Must be at least 38” if accompanied by a responsible companion. Minimum height to ride alone: 42”. Additional safety information posted at the attraction.
+
+
+id-                5
+Name -             Petting Farm
+Description -      Welcome to the farm where sheep, goats, chickens and even a friendly pig are part of this hands-on attraction. 
+Guidelines -       For the animals safety, no food or drinks allowed. Additional safety information posted at the attraction.
